@@ -770,11 +770,11 @@ video {
 }
 
 .bg-hero {
-  background-image: url('/img/hero-bg.png');
+  background-image: url('img/hero-bg.png');
 }
 
 .bg-speakers {
-  background-image: url('/img/speakers-bg.png');
+  background-image: url('img/speakers-bg.png');
 }
 
 .from-gray-500 {
